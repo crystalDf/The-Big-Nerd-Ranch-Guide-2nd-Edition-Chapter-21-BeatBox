@@ -97,4 +97,5 @@ public class BeatBoxFragment extends Fragment {
 
         mBeatBox.release();
     }
+
 }
